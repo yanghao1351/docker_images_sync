@@ -1,1 +1,1 @@
-nodered/node-red
+influxdb:3-core
