@@ -1,1 +1,1 @@
-influxdb:3-core
+influxdb
